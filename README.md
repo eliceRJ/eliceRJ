@@ -1,6 +1,8 @@
 ### Olá! Eu sou o eliceRJ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliceRJ&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliceRJ&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliceRJ&hide_progress=true&theme=dark)
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: contatolucassarmentorj@gmail.com
