@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliceRJ&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliceRJ&show_icons=true&theme=dark)
+
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: contatolucassarmentorj@gmail.com
 - 😄 Pronouns: ele/dele
