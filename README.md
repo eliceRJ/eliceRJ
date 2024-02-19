@@ -1,5 +1,7 @@
 ### Olá! Eu sou o eliceRJ
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliceRJ)](https://github.com/eliceRJ/github-readme-stats)
+
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: contatolucassarmentorj@gmail.com
 - 😄 Pronouns: ele/dele
